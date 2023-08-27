@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url("p4.jpg");
+    background-size: cover;
+    
+}
+h1{
+ text-align: center;
+ font-weight: lighter;
+ color:white;
+ margin-top: 20px;
+}
+label{
+    color:white;
+    margin-left: 32.4rem;
+    font-size:24px;
+    font-weight:lighter;
+}
+input{
+    margin-top: 44px;
+    padding:11px;
+    width:20.6rem;
+    background: transparent;
+    border: white;
+    color:white;
+}
+button{
+background-color:transparent;
+font-size: 24px;
+margin-left: 44%;
+margin-top: 24px;
+border-radius: 10px;
+color:white;
+padding: 5px;
+
+}
+a{
+    margin-left: 44%;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 22px;
+}
